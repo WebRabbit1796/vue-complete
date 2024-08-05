@@ -6,6 +6,7 @@
   cursor: pointer;
   box-shadow: 0px 1px 3px darkgrey;
   transition: 0.2s;
+  padding: 0;
 }
 .title, .content, .description {
   padding: 16px;
